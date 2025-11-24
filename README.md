@@ -1,5 +1,5 @@
 # ChisatoFuruuchi-Graduation thesis
-### ゼミ論: 「Re:Earthを使った福島県双葉郡楢葉町の災害アーカイブ」
+### 卒論: 「Re:Earthを使用した福島県双葉郡楢葉町の災害アーカイブ」
 青山学院大学 地球社会共生学部 地球社会共生学科  
 古内　千聖/ Chisato Furuuchi  
 学生番号 1A122166  
