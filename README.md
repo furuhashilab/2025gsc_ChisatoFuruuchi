@@ -5,7 +5,7 @@
 学生番号 1A122166  
 指導教員 古橋大地 教授  
 ©︎Furuhashi Laboratory/Chisato Furuuchi, CC BY 4.0  
-発表資料→https://aoyamajp-my.sharepoint.com/:p:/g/personal/aa122166_aoyama_jp/IQCraY-hanYTTJqQUJsZ6O8_AQQP8tjMvCP2WBk1d89Gg4o?e=Cgy02g  
+発表資料→https://aoyamajp-my.sharepoint.com/:p:/g/personal/aa122166_aoyama_jp/IQCraY-hanYTTJqQUJsZ6O8_AQQP8tjMvCP2WBk1d89Gg4o?e=PrdmY3  
 ## Abstract
 本研究は、東日本大震災および福島第一原子力発電所事故によって甚大な被害を受けた福島県双葉郡楢葉町を対象に、地理情報可視化プラットフォームRe:Earthに含まれる可視化機能であるRe:Earth Visualizerを用いる。デジタル災害アーカイブの構築を目的とする。  
 震災から十数年が経過し、当時の経験を直接語ることのできる世代が限られつつある現在、記憶の風化を防ぎ、震災の教訓を次世代へ継承するための仕組みづくりが強く求められている。本研究では、被災者や地域住民へのインタビューおよび現地観察によって得られた写真・映像・証言・地図情報などの資料を収集・整理し、空間情報と統合したインタラクティブな災害アーカイブのプロトタイプ制作を試みる。  
